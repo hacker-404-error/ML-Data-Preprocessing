@@ -152,14 +152,14 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, rando
 
 **There are two ways to perform feature scaling in machine learning:**
 
-- `Standardization`
+- ###  `Standardization`
 <br>
 <div align="center">
     <img src="https://static.javatpoint.com/tutorial/machine-learning/images/data-preprocessing-machine-learning-9.png" alt="Standardization">
 </div>
 <br>
 
-- `Normalization`
+- ### `Normalization`
 <br>
 <div align="center">
     <img src="https://static.javatpoint.com/tutorial/machine-learning/images/data-preprocessing-machine-learning-10.png" alt="Normalization">
