@@ -178,7 +178,10 @@ X_test[:, 3:] = sc.transform(X_test[:, 3:])
 
 ## Combining all the steps:
 Now, in the end, we can combine all the steps together to make our complete code more understandable.
-[Complete Code]()
+
+[Complete Code](https://github.com/hacker-404-error/ML-Data-Preprocessing/blob/master/data_preprocessing_tools.ipynb)
+
+If You want To Run The Code Then You Can Use Google Colab [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hacker-404-error/ML-Data-Preprocessing/blob/master/data_preprocessing_tools.ipynb)
 
 ------
 ### Previous Topics : 
