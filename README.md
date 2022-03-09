@@ -12,6 +12,17 @@ A real-world data generally contains noises, missing values, and maybe in an unu
 - `Encoding Categorical Data`
 - `Splitting dataset into training and test set`
 - `Feature scaling`
+  
+### **Combining all the steps:**
+In the end, we can combine all the steps together to make our complete code more understandable.
+
+[Complete Code](https://github.com/hacker-404-error/ML-Data-Preprocessing/blob/master/data_preprocessing_tools.ipynb)
+
+If You want To Run The Code Then You Can Use Google Colab [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hacker-404-error/ML-Data-Preprocessing/blob/master/data_preprocessing_tools.ipynb)
+
+*`NOTE`* : Before running the Program upload [This](https://github.com/hacker-404-error/ML-Data-Preprocessing/blob/master/Data.csv) Dataset.
+
+
 
 ## 1) Get the Dataset
 To create a machine learning model, the first thing we required is a dataset as a machine learning model completely works on data. The collected data for a particular problem in a proper format is known as the dataset.
